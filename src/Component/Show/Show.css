@@ -1,0 +1,64 @@
+.pagecolor{
+    background-color: rgba(244, 111, 171, 0.799);
+    padding-top: 6%;
+    padding-left: 32%;
+    padding-bottom: 10%;
+}
+.seconddiv
+{
+    background-color: white;
+    width: 50%;
+    border: none;
+    padding-left: 3%;
+    padding-top: 0.5px;
+    border-radius: 3px;
+    box-shadow: 0px 1px 8px 0px rgb(97, 96, 96);
+}
+.phead{
+    font-size: 30px;
+    font-family: arial;
+    font-weight: 1px;
+    color: rgb(76, 75, 75);
+
+}
+.maingrid{
+    display:grid;
+    grid-template-columns: 100px 1fr;
+    padding-bottom: 20px;
+}
+img
+{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: inline-block;
+    margin: 0px 0px 0px 0px;
+
+}
+p{
+    line-height: 12px;
+}
+.pone{
+    font-weight: bold;
+    color: black;
+}
+.ptwo{
+    color: gray;
+}
+.butdiv{
+    padding-bottom: 50px;
+}
+button{
+    width: 400px;
+    height: 40px;
+    font-size: 20px;
+    color: white;
+    background-color:rgba(244, 111, 171, 0.799);
+    border: none;
+    border-radius: 3px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 20px;
+}
